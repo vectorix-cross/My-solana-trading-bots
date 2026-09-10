@@ -1,4 +1,6 @@
 # Vectorix Solana trading bots
+**Live portfolio:** [https://portfolio.vanjasretenovic4.workers.dev/](https://portfolio.vanjasretenovic4.workers.dev/)
+
 
 **Vectorix (`vectorix-cross`)** — execution bots on Solana AMMs: bundlers, snipers, copy-trade, and makers on Raydium, Pump.fun / Pump Swap, and Meteora.
 
